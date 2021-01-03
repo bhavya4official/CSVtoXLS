@@ -1,3 +1,3 @@
 # CSVtoXLS
 
-### A webapp to convert and download CSV to XLS file
+### Automation web application to filter and merge multiple CSV files data and download as XLS.
